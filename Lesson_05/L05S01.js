@@ -13,3 +13,8 @@ ga.info('Hello, world!');
 var myUnknownVariable = "Chuck"
 gs.info(myUnknownVariable);
 gs.info('Hello, world!');
+//what is 3+2*5
+// Written one way, this will equal 13
+gs.info(3 + 2 *5) 
+// Written another way, this will equal 25
+gs.info((3 + 2) *5) 
