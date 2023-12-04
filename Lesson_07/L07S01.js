@@ -4,7 +4,7 @@
 // \n = new line
 // \t = tab
 // \\ = backslash
-// \' = single quote
+// \' = single quote denotes an escaped character
 // \" = double quote
 //
 gs.info('Single string\nTwo lines');
