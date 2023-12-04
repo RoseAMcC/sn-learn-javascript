@@ -27,7 +27,7 @@ gs.info(a * b);
 // Division
 gs.info(a / b);
 
-// Modulo - get the remainder of a division
+// Modulo - get the remainder of a division (good for triggering on certain remainders)
 gs.info('');
 gs.info(a);
 gs.info(b);
