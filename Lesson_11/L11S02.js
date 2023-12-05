@@ -42,7 +42,7 @@ if (a < b)
     gs.info('a b c are in order');
     gs.info(' that means a is less than c');
   }
-else
+else // this statement is tied to the SECOND IF NOT THE FIRST
   gs.info('a is greater than or equal to b');
 
 var valveOpen = true;
@@ -53,5 +53,5 @@ if (bool)
   gs.info('Valve is currently open');
 
 var valveOpen = false;
-if (!valveOpen)
+if (!valveOpen) // if NOT valve open
   gs.info('Valve is currently closed');
