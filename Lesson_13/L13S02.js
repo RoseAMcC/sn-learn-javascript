@@ -1,6 +1,20 @@
 //
-// L13S02 - Multiple cases
-//
+// L13S02 - Multiple cases: Used in place of multiple Else If statement, and is clearer and easier to maintain
+//SYNTAX
+/* switch (variable) {
+    case 0:
+    break;
+
+    case 1: (no break statement functions as an OR statement)
+    case 2:
+    break;
+
+    case 3: 
+    break;
+
+    default:
+}
+
 // Using the switch statement
 var level = 5;
 var message = '';
