@@ -5,3 +5,5 @@ function sayHello() { //NEVER NAME YOUR VARIABLE FUNCTION, because that is used 
   gs.info('Hello');
 }
 sayHello();
+
+//This is used so that anywhere the function appears can be updated by updating a single line of code.
